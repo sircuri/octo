@@ -1,6 +1,6 @@
 FROM microsoft/dotnet:runtime
 MAINTAINER github@vanefferenonline.nl
-LABEL version="1.0.0"
+LABEL version="4.30.7"
 
 WORKDIR /octo
 
