@@ -1,7 +1,7 @@
 FROM microsoft/dotnet:runtime
 MAINTAINER github@vanefferenonline.nl
 
-ARG OCTO_TOOLS_VERSION=4.36.0
+ARG OCTO_TOOLS_VERSION=4.36.1
 
 LABEL maintainer="github@vanefferenonline.nl" \ 
 	  version=$OCTO_TOOLS_VERSION
